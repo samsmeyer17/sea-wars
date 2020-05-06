@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B1E101F9-207C-1EEA-F404-ABED0998A92D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scenes/MusicPlayer.cs" Line="19" Column="10" />
+      <File FileName="Assets/CollisionHandler.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scenes/Scripts/PlayerController.cs" Line="78" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="2b96b386-572e-4da4-ab08-3f78533e5896" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assembly-CSharp.csproj</String>
+    <String>Assembly-CSharp-firstpass.csproj</String>
+    <String>Assembly-CSharp-Editor-firstpass.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
