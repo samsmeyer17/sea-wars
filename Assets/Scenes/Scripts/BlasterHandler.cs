@@ -20,7 +20,7 @@ public class BlasterHandler : MonoBehaviour
     void ProcessBlaster()
     {
         blasterThrow = CrossPlatformInputManager.GetAxis("Fire1");
-        if (blasterThrow <= 1 && blasterThrow > 0)
+        if (blasterThrow > 0)
         {
             blasterFX1.SetActive(true);
             blasterFX2.SetActive(true);
