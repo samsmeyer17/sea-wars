@@ -43,6 +43,7 @@
      <Compile Include="Assets\Scenes\Scripts\GameLoad.cs" />
      <Compile Include="Assets\Scenes\Scripts\MusicPlayer.cs" />
      <Compile Include="Assets\Scenes\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\SelfDestructor.cs" />
      <None Include="Assets\Asset Packs\epyphany\ReadMe 2.txt" />
      <None Include="Assets\Asset Packs\epyphany\ReadMe.txt" />
     <Reference Include="UnityEngine">

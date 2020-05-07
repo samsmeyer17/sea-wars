@@ -21,9 +21,10 @@ public class Enemy : MonoBehaviour
 
 
     void OnParticleCollision(GameObject other) {
-        Instantiate(
+        GameObject fx = Instantiate(
             deathFX, transform.position, Quaternion.identity
         );
+        fx.transform.parent = parent;
         Destroy(gameObject);
     }
 }
