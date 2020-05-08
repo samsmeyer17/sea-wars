@@ -294,6 +294,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &104942297 stripped
@@ -323,6 +327,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 12
+  hits: 1
 --- !u!1001 &153672864
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -541,6 +546,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &230522523 stripped
@@ -570,6 +579,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 20
+  hits: 1
 --- !u!1 &279832772
 GameObject:
   m_ObjectHideFlags: 0
@@ -872,6 +882,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &353002632 stripped
@@ -901,6 +915,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 30
+  hits: 1
 --- !u!1 &403417912
 GameObject:
   m_ObjectHideFlags: 0
@@ -1032,6 +1047,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &457823743 stripped
@@ -1111,6 +1130,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &524842916 stripped
@@ -1190,6 +1213,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &568181525 stripped
@@ -1302,6 +1329,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &609783230 stripped
@@ -1481,6 +1512,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &656754424 stripped
@@ -1498,7 +1533,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 597195040, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195040, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: m_Name
+      value: Bullets Left
       objectReference: {fileID: 0}
     - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
       propertyPath: CollisionModule.enabled
@@ -1510,12 +1549,76 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
       propertyPath: CollisionModule.minKillSpeed
-      value: 0
+      value: 100000
       objectReference: {fileID: 0}
     - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
       propertyPath: CollisionModule.collisionMessages
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: CollisionModule.m_Bounce.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: t
+      value: 0.35996354
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: CollisionModule.m_Bounce.minScalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: CollisionModule.collidesWithDynamic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: CollisionModule.collidesWith.m_Bits
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: CollisionModule.multiplyColliderForceByParticleSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: moveWithTransform
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: CollisionModule.multiplyColliderForceByCollisionAngle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: scalingMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: CollisionModule.collisionMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195045, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: TrailModule.mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 597195046, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 612528790, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: guns.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 612528790, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: guns.Array.data[0]
+      value: 
+      objectReference: {fileID: 37041012}
+    - target: {fileID: 612528790, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
+      propertyPath: guns.Array.data[1]
+      value: 
+      objectReference: {fileID: 671338342}
     - target: {fileID: 612528796, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
       propertyPath: deathFX
       value: 
@@ -1580,6 +1683,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player Ship
       objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030160, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
         type: 3}
       propertyPath: CollisionModule.enabled
@@ -1593,17 +1701,82 @@ PrefabInstance:
     - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
         type: 3}
       propertyPath: CollisionModule.minKillSpeed
-      value: 0
+      value: 100000
       objectReference: {fileID: 0}
     - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
         type: 3}
       propertyPath: CollisionModule.collisionMessages
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: CollisionModule.m_Bounce.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: t
+      value: 0.57997036
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: CollisionModule.m_Bounce.minScalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: CollisionModule.collidesWithDynamic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: CollisionModule.collidesWith.m_Bits
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: CollisionModule.multiplyColliderForceByParticleSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: moveWithTransform
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: CollisionModule.multiplyColliderForceByCollisionAngle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: scalingMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: CollisionModule.collisionMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030163, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: TrailModule.mode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3543951432299030166, guid: fc250cccfd07e48b1838f92b048708b9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543951432299030166, guid: fc250cccfd07e48b1838f92b048708b9,
+        type: 3}
+      propertyPath: m_Name
+      value: Bullets Right
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc250cccfd07e48b1838f92b048708b9, type: 3}
@@ -1627,6 +1800,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   blasterFX1: {fileID: 37041012}
   blasterFX2: {fileID: 671338342}
+  blasterThrow: 0
 --- !u!1 &671338342 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3543951432299030166, guid: fc250cccfd07e48b1838f92b048708b9,
@@ -1746,6 +1920,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 12
+  hits: 1
 --- !u!1 &737862890 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 92bef5ab3696efe4e81b47284a28bc07,
@@ -1767,6 +1942,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 30
+  hits: 1
 --- !u!1 &836534092 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 92bef5ab3696efe4e81b47284a28bc07,
@@ -1788,6 +1964,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 12
+  hits: 1
 --- !u!1 &918738913
 GameObject:
   m_ObjectHideFlags: 0
@@ -1839,6 +2016,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 30
+  hits: 1
 --- !u!1 &1096119737
 GameObject:
   m_ObjectHideFlags: 0
@@ -1920,6 +2098,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 20
+  hits: 1
 --- !u!1001 &1158487821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1991,6 +2170,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &1158487822 stripped
@@ -2070,6 +2253,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &1170687808 stripped
@@ -2133,6 +2320,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 17.901001
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &1181114179 stripped
@@ -2192,6 +2383,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 12
+  hits: 1
 --- !u!1 &1250921148
 GameObject:
   m_ObjectHideFlags: 0
@@ -2277,6 +2469,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 30
+  hits: 1
 --- !u!1 &1330251736
 GameObject:
   m_ObjectHideFlags: 0
@@ -2328,6 +2521,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 20
+  hits: 1
 --- !u!1 &1368024197 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 92bef5ab3696efe4e81b47284a28bc07,
@@ -2349,6 +2543,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 20
+  hits: 1
 --- !u!1 &1386471913
 GameObject:
   m_ObjectHideFlags: 0
@@ -2511,6 +2706,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &1407338469 stripped
@@ -2590,6 +2789,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &1448207202 stripped
@@ -2685,6 +2888,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 12
+  hits: 1
 --- !u!1 &1516309822
 GameObject:
   m_ObjectHideFlags: 0
@@ -2736,6 +2940,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 12
+  hits: 1
 --- !u!1 &1567696167 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 92bef5ab3696efe4e81b47284a28bc07,
@@ -2757,6 +2962,7 @@ MonoBehaviour:
   deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
   parent: {fileID: 2013716450}
   scorePerHit: 12
+  hits: 1
 --- !u!1 &1605001807
 GameObject:
   m_ObjectHideFlags: 0
@@ -3118,6 +3324,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &1759771143 stripped
@@ -3257,6 +3467,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
+    - target: {fileID: 2300000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92bef5ab3696efe4e81b47284a28bc07, type: 3}
 --- !u!4 &1889597203 stripped
