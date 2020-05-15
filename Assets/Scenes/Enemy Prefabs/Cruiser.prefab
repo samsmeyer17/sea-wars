@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
   - component: {fileID: 11100000}
+  - component: {fileID: 2008044501}
   m_Layer: 0
-  m_Name: nave
+  m_Name: Cruiser
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -95,3 +96,19 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!114 &2008044501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d28e2731d93694a4cbe04b487b8a5a4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
+  parent: {fileID: 8747091102722039784, guid: 72c64e144894846fb99788d7e8b7f263, type: 3}
+  scorePerHit: 20
+  hits: 1

@@ -187,8 +187,9 @@ GameObject:
   - component: {fileID: 4465035140963908}
   - component: {fileID: 33606436300854868}
   - component: {fileID: 23158753764505530}
+  - component: {fileID: 5447621454948757034}
   m_Layer: 0
-  m_Name: StarSparrow11
+  m_Name: Fighter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -201,9 +202,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664269169174470}
-  m_LocalRotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.6769, y: 1.6769, z: 1.6769}
   m_Children:
   - {fileID: 4010974493783442}
   m_Father: {fileID: 0}
@@ -235,7 +236,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5953a6e817e87be4195c31da8fdce334, type: 2}
+  - {fileID: 2100000, guid: 3574d5733ac60b941b175932e0a1aa2e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -256,6 +257,22 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5447621454948757034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1664269169174470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d28e2731d93694a4cbe04b487b8a5a4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathFX: {fileID: 2613017649227949597, guid: 6f718b4f9897e4beaaf8cdd5a8aa0f4b, type: 3}
+  parent: {fileID: 8747091102722039784, guid: 72c64e144894846fb99788d7e8b7f263, type: 3}
+  scorePerHit: 12
+  hits: 1
 --- !u!1 &1813772808249330
 GameObject:
   m_ObjectHideFlags: 0
